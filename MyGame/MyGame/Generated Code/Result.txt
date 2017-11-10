@@ -1,0 +1,2 @@
+cl : Command line warning D9035 : option 'Wp64' has been deprecated and will be removed in a future release
+cl : Command line warning D9026 : options apply to entire command line

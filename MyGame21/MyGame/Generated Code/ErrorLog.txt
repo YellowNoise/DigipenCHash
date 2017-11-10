@@ -1,0 +1,18 @@
+	if not exist ".\Release/" mkdir ".\Release"
+	"c:\program files (x86)\microsoft sdks\windows\v7.0a\bin\rc.exe" /l 0x409 /fo".\Release\MyGame.res" .\MyGame.rc
+Microsoft (R) Windows (R) Resource Compiler Version 6.1.7600.16385
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+	cl.exe @C:\Users\MADJUK~1.MOR\AppData\Local\Temp\nm257B.tmp
+MyGame_MainDeclarations.cpp
+MyGame_BallClass.cpp
+MyGame_CollisionActors0.cpp
+MyGame_Level0Objects.cpp
+MyGame_MainDeclarations.cpp
+MyGame_MyGame.cpp
+MyGame_MyLevelFactory.cpp
+MyGame_MyLevelFactory_0_0.cpp
+MyGame_MyLevelFactory_0_1.cpp
+MyGame_MyLevelFactory_0_2.cpp
+MyGame_ShipClass.cpp
+	link.exe @C:\Users\MADJUK~1.MOR\AppData\Local\Temp\nm3D50.tmp

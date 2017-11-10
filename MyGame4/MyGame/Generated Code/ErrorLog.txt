@@ -1,0 +1,4 @@
+	cl.exe @C:\Users\MADJUK~1.MOR\AppData\Local\Temp\nm561C.tmp
+MyGame_MainDeclarations.cpp
+MyGame_MyLevelFactory_0_1.cpp
+	link.exe @C:\Users\MADJUK~1.MOR\AppData\Local\Temp\nm589D.tmp

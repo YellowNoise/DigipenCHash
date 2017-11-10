@@ -1,0 +1,4 @@
+	cl.exe @C:\Users\MADJUK~1.MOR\AppData\Local\Temp\nm749B.tmp
+Brix_MainDeclarations.cpp
+Brix_MyLevelFactory_0_1.cpp
+	link.exe @C:\Users\MADJUK~1.MOR\AppData\Local\Temp\nm7A18.tmp

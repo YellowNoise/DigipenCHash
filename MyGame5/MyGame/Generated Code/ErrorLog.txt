@@ -1,0 +1,4 @@
+	cl.exe @C:\Users\MADJUK~1.MOR\AppData\Local\Temp\nm3534.tmp
+MyGame_MainDeclarations.cpp
+MyGame_PaddleClass.cpp
+	link.exe @C:\Users\MADJUK~1.MOR\AppData\Local\Temp\nm3777.tmp

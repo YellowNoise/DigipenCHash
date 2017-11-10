@@ -1,0 +1,5 @@
+	cl.exe @C:\Users\MADJUK~1.MOR\AppData\Local\Temp\nmA115.tmp
+MyGame_MainDeclarations.cpp
+MyGame_PlayerClass.cpp
+MyGame_PlayerClass.cpp(59) : warning C4305: 'initializing' : truncation from 'double' to 'float'
+	link.exe @C:\Users\MADJUK~1.MOR\AppData\Local\Temp\nmA319.tmp
